@@ -1,0 +1,363 @@
+body {
+  background-color: grey;
+}
+
+.mega-conr {
+  margin: auto;
+  width: 1301px;
+}
+
+.conr1 {
+  width: 1300px;
+  height: 56px;
+  position: fixed;
+  background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.img1 {
+  margin-left: 100px;
+}
+
+.lol1 {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 16px;
+}
+
+.lol2 {
+  width: 160px;
+  height: 40px;
+  background-color: #00bafc;
+  border: 0px;
+  border-radius: 15px;
+  margin-left: 23px;
+  text-align: center;
+}
+
+.lol3 {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0px;
+  font-family: sans-serif;
+}
+
+/*  */
+
+.conr2 {
+  width: 1300px;
+  height: 458px;
+  background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mconr1 {
+  width: 470px;
+  margin-top: 114px;
+  margin-left: 100px;
+}
+
+.lol4 {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.lol5 {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+
+.lol6 {
+  width: 232px;
+  height: 40px;
+  background-color: #00bafc;
+  border: 0px;
+  border-radius: 15px;
+}
+
+/*  */
+
+.mconr2 {
+  width: 458px;
+  margin-top: 80px;
+  margin-left: 102px;
+}
+
+/*  */
+
+.conr3 {
+  width: 1300px;
+  height: 859px;
+  background-color: #ffffff;
+}
+
+.lol7 {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  margin-left: 591.5px;
+}
+
+.lol8 {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/*  */
+
+.mconr3 {
+  width: 1200px;
+  display: flex;
+  margin: auto;
+}
+
+.onein5 {
+  margin-left: 50px;
+  width: 320px;
+  height: 260px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+}
+
+.img2 {
+  margin-left: 58.6px;
+}
+
+.lol9in1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.lol10 {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  margin-left: 75.5px;
+}
+
+.twoin5 {
+  margin-left: 50px;
+  width: 320px;
+  height: 260px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+}
+
+.threein5 {
+  margin-left: 50px;
+  width: 320px;
+  height: 260px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+}
+
+.mconr4 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fourin5 {
+  width: 320px;
+  height: 260px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+  margin-left: 293px;
+  margin-top: 48px;
+}
+
+.fivein5 {
+  width: 320px;
+  height: 260px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+  margin-left: 50px;
+  margin-top: 48px;
+}
+
+/*  */
+
+.mconr5 {
+  margin-left: 461px;
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.lol11 {
+  width: 167px;
+  height: 40px;
+  background-color: #00bafc;
+  border: 0px;
+  border-radius: 15px;
+}
+
+.lol12 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0px;
+}
+
+.lol13 {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: sans-serif;
+  margin-left: 16px;
+  color: #00bafc;
+}
+
+/*  */
+
+.conr4 {
+  width: 1300px;
+  height: 1635.81px;
+  background-color: #ffffff;
+}
+
+.mconr6 {
+  width: 832px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.for-text {
+}
+
+.kol1 {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 32.5px;
+}
+
+.kol3 {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.kol2 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 35.5px;
+}
+
+.kol4 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.kol5 {
+  width: 167px;
+  height: 40px;
+  border: 0px;
+  border-radius: 10px;
+  background-color: #00bafc;
+  margin-top: 48px;
+  margin-left: 566px;
+}
+
+.kol6 {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 700;
+  margin: 0px;
+  color: #ffffff;
+}
+
+/*  */
+
+.conr5 {
+  width: 1300px;
+  height: 543px;
+  background-color: #00bafc;
+}
+
+.mconr7 {
+  width: 348px;
+  height: 304px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 24px;
+}
+
+.kol7 {
+  width: 300px;
+  height: 56px;
+  margin-top: 24px;
+  margin-left: 24px;
+}
+
+.kol8 {
+  width: 300px;
+  height: 56px;
+  margin-top: 16px;
+  margin-left: 24px;
+}
+
+.kol9 {
+  width: 307px;
+  height: 56px;
+  margin-top: 16px;
+  margin-left: 24px;
+}
+
+/*  */
+
+.conr6 {
+  width: 1300px;
+  height: 338px;
+  background-color: #191919;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mconr8 {
+  margin-top: 56px;
+  margin-left: 100px;
+}
+
+.kop1 {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.kop2 {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.mconr9 {
+  margin-top: 56px;
+  margin-left: 100px;
+}
+
+.sblLka {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.mconr10 {
+  margin-top: 56px;
+  margin-left: 87px;
+}
